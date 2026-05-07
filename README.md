@@ -1,20 +1,19 @@
 # Sweety Kumari 👩‍💻
-### *"Code likhti hoon, prod pe jaati hoon, kaam karta hai — aur log abhi bhi surprised hote hain."*
+### *""AI se code likhwati hoon, bugs khud fix karti hoon. Fair deal hai.""*
 
 ---
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7A928&width=650&lines=Haan+bhai%2C+main+hi+hoon+woh+wali+engineer...;...jisne+akele+full-stack+ship+kiya;...aur+UAT+mein+zero+defects+aaye;Ab+FAANG+ki+baari+hai+%F0%9F%94%A5)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Fira+Code&pause=1000&color=F7A928&width=750&lines=Soch+rhi+hu+code+ke+sath+sath+youtube+channel+start+kr+lu;Channel+description+-+Decoding+life+by+encoding+lines,;Kesa+rahega+%3F)
 
 ---
 
 ## 🙋‍♀️ Kaun hoon main?
 
-Ek software engineer jo:
+Ek engineer jo:
 
 - 🏍️ **Yamaha** ke enterprise systems mein ghusi, microservices samjhe, SQL likhke database ko confuse kiya — aur **zero defects ke saath bahar aayi**
-- ☁️ **CampusInbox** akele bana rhi hoon — design se leke production tak — jab baaki log still "which framework should I use" discuss kar rahe hain
-- 🌪️ **IMD (India Meteorological Department)** ke saath research paper likha cyclone detection pe — YOLO model use kiya, kyunki tofaan ko bhi ek peer-reviewed second opinion chahiye tha
-- 🕵️ Deepfake detector banaya jo **~89% accurate** hai — aapki AI wali profile pic safe nahi hai mere paas
+- ☁️ **CampusInbox** bana rhi hoon — design se leke production tak — jab baaki log still "which framework should I use" discuss kar rahe hain
+- 🌪️ **IMD (Indian Meteorological Department)** ke saath research paper likha cyclone detection pe — YOLO model use kiya, kyunki tofaan ko bhi ek peer-reviewed second opinion chahiye tha
 - 📚 **9.15 CGPA** — Honestly? Mujhe bhi nahi pata. University ko bhi shayad nahi pata. Hum sab surprised hain.
 
 ---
@@ -25,48 +24,13 @@ Ek software engineer jo:
 skills = {
     "Languages"  : ["C++", "Python"],
     "Backend"    : ["FastAPI", "REST APIs", "SQLAlchemy"],
-    "Database"   : ["PostgreSQL", "SQL — joins itne complex ki DBA bhi soochne lag gaye"],
+    "Database"   : ["PostgreSQL", "SQL"],
     "Frontend"   : ["React", "HTML", "CSS — enough to not embarrass myself"],
     "Cloud"      : ["CI/CD", "GitHub Actions", "Render", "Vercel"],
     "AI/ML"      : ["PyTorch", "EfficientNet", "YOLOv5/v8", "CNNs"],
-    "Soft Skills": ["Production mein ship karna", "Aur woh kaam karna"]
+    "Soft Skills": ["Batein achhi kr leti hu — code bhi, log bhi handle ho jaate hain"]
 }
 ```
-
----
-
-## 🚀 Kya banaya maine?
-
-### 📬 CampusInbox — *Akele. Scratch se. Production tak. Abhi bhi bana rhi hoon.*
-`FastAPI · PostgreSQL · React · Render · Vercel · GitHub Actions`
-
-Full-stack cloud platform jahan users ko personalized daily notifications milti hain.
-Real users. Real uptime. Zero "it works on my machine" excuses.
-
----
-
-### 🕵️ DeepFake Detector — *Kyunki internet pe already bahut jhooth hai*
-`PyTorch · EfficientNet-B0 · Gradio · Hugging Face Spaces`
-
-~89% accuracy. Live model on Hugging Face.
-Apni LinkedIn photo submit karke dekho — dare hai. 😏
-
----
-
-### 🌪️ Cyclone Detection Research Paper — *IMD, Ministry of Earth Sciences, GoI*
-`YOLOv5 · YOLOv8 · CNN · Roboflow · 700+ images`
-
-IMD ke saath mil ke research paper likha YOLO-based cyclone detection pe.
-Sarkari research. Real stakes. Aasman thoda kam rahasymay ho gaya ab. 🌩️
-
----
-
-## 📊 Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sweetykumari6747&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sweetykumari6747&layout=compact&theme=tokyonight&hide_border=true" width="40%"/>
-</p>
 
 ---
 

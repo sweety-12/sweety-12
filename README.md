@@ -1,5 +1,5 @@
 # Sweety Kumari 👩‍💻
-### *""AI se code likhwati hoon, bugs khud fix karti hoon. Fair deal hai.""*
+### *""AI se code likhwati hoon, bugs khud fix kar leti hoon. Fair deal hai.""*
 
 ---
 
@@ -12,7 +12,7 @@
 Ek engineer jo:
 
 - 🏍️ **Yamaha** ke enterprise systems mein ghusi, microservices samjhe, SQL likhke database ko confuse kiya — aur **zero defects ke saath bahar aayi**
-- ☁️ **CampusInbox** bana rhi hoon — design se leke production tak — jab baaki log still "which framework should I use" discuss kar rahe hain
+- ☁️ **CampusInbox** bana rhi hoon — design se leke production tak.
 - 🌪️ **IMD (Indian Meteorological Department)** ke saath research paper likha cyclone detection pe — YOLO model use kiya, kyunki tofaan ko bhi ek peer-reviewed second opinion chahiye tha
 - 📚 **9.15 CGPA** — Honestly? Mujhe bhi nahi pata. University ko bhi shayad nahi pata. Hum sab surprised hain.
 

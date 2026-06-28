@@ -1,24 +1,19 @@
 # Sweety Kumari 👩‍💻
-### *""AI se code likhwati hoon, bugs khud fix kar leti hoon. Fair deal hai.""*
 
----
+#### *"Building CampusInbox"*
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Fira+Code&pause=1000&color=F7A928&width=750&lines=Soch+rhi+hu+code+ke+sath+sath+youtube+channel+start+kr+lu;Channel+description+-+Decoding+life+by+encoding+lines,;Kesa+rahega+%3F)
 
----
 
-## 🙋‍♀️ Kaun hoon main?
+### 🙋‍♀️ Kaun hoon main?
 
-Ek engineer jo:
-
-- 🏍️ **Yamaha** ke enterprise systems mein ghusi, microservices samjhe, SQL likhke database ko confuse kiya — aur **zero defects ke saath bahar aayi**
-- ☁️ **CampusInbox** bana rhi hoon — design se leke production tak.
-- 🌪️ **IMD (Indian Meteorological Department)** ke saath research paper likha cyclone detection pe — YOLO model use kiya, kyunki tofaan ko bhi ek peer-reviewed second opinion chahiye tha
+- 🏍️Worked on enterprise systems at Yamaha—understood microservices, wrote SQL that made the database think twice, and shipped everything with zero defects.
+- ☁️ Building CampusInbox from the ground up, taking it all the way from design to production.
+- 🌪️ Co-authored a research paper with the **Indian Meteorological Department (IMD)** on cyclone detection using the YOLO model—because even storms deserve a peer-reviewed second opinion.
 - 📚 **9.15 CGPA** — Honestly? Mujhe bhi nahi pata. University ko bhi shayad nahi pata. Hum sab surprised hain.
 
 ---
 
-## 🛠️ Haathiyaar
+## Skills
 
 ```python
 skills = {
@@ -44,4 +39,6 @@ skills = {
 
 ---
 
-<p align="center"><i>"Recursion samjhi. Pointers samjhe. Ab FAANG ki baari hai."</i> 🔥</p>
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=10&pause=1000&color=F7A928&width=750&lines=Soch+rhi+hu+code+ke+sath+sath+youtube+channel+start+kr+lu;Channel+description+-+Decoding+life+by+encoding+lines,;Kesa+rahega+%3F)
+
+---

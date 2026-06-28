@@ -9,8 +9,7 @@
 - 🏍️Worked on enterprise systems at Yamaha—understood microservices, wrote SQL that made the database think twice, and shipped everything with zero defects.
 - ☁️ Building CampusInbox from the ground up, taking it all the way from design to production.
 - 🌪️ Co-authored a research paper with the **Indian Meteorological Department (IMD)** on cyclone detection using the YOLO model—because even storms deserve a peer-reviewed second opinion.
-- 📚 **9.15 CGPA** — Honestly? Mujhe bhi nahi pata. University ko bhi shayad nahi pata. Hum sab surprised hain.
-
+- 📚 **9.15 CGPA** — Honestly? Mujhe bhi nahi pata.
 ---
 
 ## Skills

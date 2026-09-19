@@ -6,10 +6,11 @@
 
 ### 🙋‍♀️ About Me
 
-- Associate test Engineer at Yamaha — enterprise systems, optimized SQL, Selenium test automation (70% manual effort reduced), zero-defect releases.
-- ☁️ Building CampusInbox from the ground up, taking it all the way from design to production.
-- 🌪️ Co-authored a research paper with the **Indian Meteorological Department (IMD)** on cyclone detection using the YOLO model—
-- 📚 **9.15 CGPA** 
+- Associate Test Engineer @ Yamaha Motor Solutions — built 100+ Selenium automation scripts (↓30% manual effort, 90% test reliability), drove zero-defect UAT Go-Live across a multi-module enterprise platform.
+- Building CampusInbox — a full-stack cloud service (Python, FastAPI, React, PostgreSQL) with automated daily email delivery and zero-touch CI/CD deployment.
+- AI Research Intern @ IMD, Govt of India — fine-tuned YOLOv5/v8 for cyclone detection on 700+ training images.
+- Built a DeepFake detection model (EfficientNet-B0, PyTorch) with ~75% validation accuracy, deployed live on Hugging Face Spaces.
+- 9.15 CGPA — B.Tech CSE
 ---
 
 ## Skills

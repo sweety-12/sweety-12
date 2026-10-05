@@ -6,7 +6,7 @@
 
 ### 🙋‍♀️ About Me
 
-- Associate Test Engineer @ Yamaha Motor Solutions — built 100+ Selenium automation scripts (↓30% manual effort, 90% test reliability), drove zero-defect UAT Go-Live across a multi-module enterprise platform.
+- Associate Test Engineer @ Yamaha Motor Solutions — built 100+ Selenium automation scripts (↓30% manual effort, 90% test reliability), drove zero-defect UAT across a multi-module enterprise platform.
 - Building CampusInbox — a full-stack cloud service (Python, FastAPI, React, PostgreSQL) with automated daily email delivery and zero-touch CI/CD deployment.
 - AI Research Intern @ IMD, Govt of India — fine-tuned YOLOv5/v8 for cyclone detection on 700+ training images.
 - Built a DeepFake detection model (EfficientNet-B0, PyTorch) with ~75% validation accuracy, deployed live on Hugging Face Spaces.

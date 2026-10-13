@@ -2,27 +2,27 @@
 
 #### *"Building CampusInbox"*
 
-
-
 ### 🙋‍♀️ About Me
 
-- Associate Test Engineer @ Yamaha Motor Solutions — built 100+ Selenium automation scripts (↓30% manual effort, 90% test reliability), drove zero-defect UAT across a multi-module enterprise platform.
-- Building CampusInbox — a full-stack cloud service (Python, FastAPI, React, PostgreSQL) with automated daily email delivery and zero-touch CI/CD deployment.
-- AI Research Intern @ IMD, Govt of India — fine-tuned YOLOv5/v8 for cyclone detection on 700+ training images.
-- Built a DeepFake detection model (EfficientNet-B0, PyTorch) with ~75% validation accuracy, deployed live on Hugging Face Spaces.
-- 9.15 CGPA — B.Tech CSE
+- Associate Test Engineer @ Yamaha Motor Solutions: built 100+ Selenium automation scripts (30% less manual effort, 90% test reliability) and tested multi-level approval workflows with SQL data validation on PostgreSQL.
+- Building CampusInbox: a full-stack job alert platform (Python, FastAPI, React, PostgreSQL) with automated daily email delivery and CI/CD.
+- Research Intern @ IMD, Govt of India: trained YOLOv8 models for cyclone detection on 500+ images as part of a team research project.
+- Built a deepfake detection model (EfficientNet-B0, PyTorch), deployed live on Hugging Face Spaces.
+- 200+ DSA problems solved on LeetCode (C++) | B.Tech CSE, 9.15 CGPA
+
 ---
 
 ## Skills
 
 ```python
 skills = {
-    "Languages"  : ["C++", "Python"],
-    "Backend"    : ["FastAPI", "REST APIs", "SQLAlchemy"],
-    "Database"   : ["PostgreSQL", "SQL"],
-    "Frontend"   : ["React", "HTML", "CSS"],
-    "Cloud"      : ["CI/CD", "GitHub Actions", "Render", "Vercel"],
-    "AI/ML"      : ["PyTorch", "EfficientNet", "YOLOv5/v8", "CNNs"],
+    "Languages" : ["C++", "Python"],
+    "Backend"   : ["FastAPI", "REST APIs", "SQL"],
+    "Database"  : ["PostgreSQL"],
+    "Frontend"  : ["React", "HTML", "CSS"],
+    "Cloud"     : ["CI/CD", "GitHub Actions", "Render", "Vercel"],
+    "AI/ML"     : ["PyTorch", "EfficientNet", "YOLOv8", "CNNs"],
+    "Testing"   : ["Selenium", "JIRA"],
 }
 ```
 
